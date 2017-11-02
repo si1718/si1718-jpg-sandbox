@@ -1,0 +1,23 @@
+{
+  "name": "si1718-jpg-sandbox",
+  "version": "1.0.0",
+  "description": "Test repository for the SI course of the MII from University of Seville.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/si1718/si1718-jpg-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/si1718/si1718-jpg-sandbox/issues"
+  },
+  "homepage": "https://github.com/si1718/si1718-jpg-sandbox#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
