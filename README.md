@@ -1,2 +1,5 @@
 # si1718-jpg-sandbox
-Repositorio de pruebas para la asignatura SI del máster de ingeniería informática.
+Test repository for the SI course of the MII from University of Seville
+Repositorio de pruebas para la asignatura SI del máster de ingeniería informática de la Universidad de Sevilla.
+
+Joaquín Pineda 2017
